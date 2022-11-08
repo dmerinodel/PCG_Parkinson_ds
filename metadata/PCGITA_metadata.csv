@@ -1,101 +1,301 @@
 RECORDING_ORIGINAL_NAME,sex,fold,classID
-AVPEPUDEA0001,0,patologicas,1
-AVPEPUDEA0002,1,patologicas,1
-AVPEPUDEA0003,1,patologicas,1
-AVPEPUDEA0005,0,patologicas,1
-AVPEPUDEA0006,1,patologicas,1
-AVPEPUDEA0007,1,patologicas,1
-AVPEPUDEA0008,1,patologicas,1
-AVPEPUDEA0009,1,patologicas,1
-AVPEPUDEA0010,1,patologicas,1
-AVPEPUDEA0011,1,patologicas,1
-AVPEPUDEA0013,0,patologicas,1
-AVPEPUDEA0014,1,patologicas,1
-AVPEPUDEA0015,1,patologicas,1
-AVPEPUDEA0016,0,patologicas,1
-AVPEPUDEA0017,0,patologicas,1
-AVPEPUDEA0020,1,patologicas,1
-AVPEPUDEA0021,1,patologicas,1
-AVPEPUDEA0022,0,patologicas,1
-AVPEPUDEA0023,0,patologicas,1
-AVPEPUDEA0024,0,patologicas,1
-AVPEPUDEA0025,0,patologicas,1
-AVPEPUDEA0026,1,patologicas,1
-AVPEPUDEA0027,0,patologicas,1
-AVPEPUDEA0029,1,patologicas,1
-AVPEPUDEA0030,0,patologicas,1
-AVPEPUDEA0031,1,patologicas,1
-AVPEPUDEA0032,0,patologicas,1
-AVPEPUDEA0034,0,patologicas,1
-AVPEPUDEA0035,1,patologicas,1
-AVPEPUDEA0037,0,patologicas,1
-AVPEPUDEA0038,0,patologicas,1
-AVPEPUDEA0039,0,patologicas,1
-AVPEPUDEA0041,0,patologicas,1
-AVPEPUDEA0042,1,patologicas,1
-AVPEPUDEA0043,0,patologicas,1
-AVPEPUDEA0045,1,patologicas,1
-AVPEPUDEA0046,0,patologicas,1
-AVPEPUDEA0047,1,patologicas,1
-AVPEPUDEA0048,1,patologicas,1
-AVPEPUDEA0049,0,patologicas,1
-AVPEPUDEA0050,1,patologicas,1
-AVPEPUDEA0051,1,patologicas,1
-AVPEPUDEA0052,1,patologicas,1
-AVPEPUDEA0053,0,patologicas,1
-AVPEPUDEA0054,1,patologicas,1
-AVPEPUDEA0055,0,patologicas,1
-AVPEPUDEA0056,0,patologicas,1
-AVPEPUDEA0057,0,patologicas,1
-AVPEPUDEA0058,0,patologicas,1
-AVPEPUDEA0059,1,patologicas,1
-AVPEPUDEAC0001,1,control ,0
-AVPEPUDEAC0003,0,control ,0
-AVPEPUDEAC0004,1,control ,0
-AVPEPUDEAC0005,0,control ,0
-AVPEPUDEAC0006,1,control ,0
-AVPEPUDEAC0007,1,control ,0
-AVPEPUDEAC0008,1,control ,0
-AVPEPUDEAC0010,1,control ,0
-AVPEPUDEAC0011,1,control ,0
-AVPEPUDEAC0012,1,control ,0
-AVPEPUDEAC0013,1,control ,0
-AVPEPUDEAC0014,1,control ,0
-AVPEPUDEAC0015,1,control ,0
-AVPEPUDEAC0016,1,control ,0
-AVPEPUDEAC0017,1,control ,0
-AVPEPUDEAC0018,1,control ,0
-AVPEPUDEAC0019,1,control ,0
-AVPEPUDEAC0020,1,control ,0
-AVPEPUDEAC0021,0,control ,0
-AVPEPUDEAC0022,0,control ,0
-AVPEPUDEAC0023,1,control ,0
-AVPEPUDEAC0024,1,control ,0
-AVPEPUDEAC0025,1,control ,0
-AVPEPUDEAC0026,0,control ,0
-AVPEPUDEAC0027,0,control ,0
-AVPEPUDEAC0028,1,control ,0
-AVPEPUDEAC0029,1,control ,0
-AVPEPUDEAC0030,1,control ,0
-AVPEPUDEAC0031,0,control ,0
-AVPEPUDEAC0033,0,control ,0
-AVPEPUDEAC0034,0,control ,0
-AVPEPUDEAC0035,0,control ,0
-AVPEPUDEAC0037,0,control ,0
-AVPEPUDEAC0039,0,control ,0
-AVPEPUDEAC0040,0,control ,0
-AVPEPUDEAC0041,0,control ,0
-AVPEPUDEAC0042,0,control ,0
-AVPEPUDEAC0043,0,control ,0
-AVPEPUDEAC0044,0,control ,0
-AVPEPUDEAC0045,0,control ,0
-AVPEPUDEAC0046,0,control ,0
-AVPEPUDEAC0047,0,control ,0
-AVPEPUDEAC0048,0,control ,0
-AVPEPUDEAC0049,0,control ,0
-AVPEPUDEAC0050,0,control ,0
-AVPEPUDEAC0051,0,control ,0
-AVPEPUDEAC0052,0,control ,0
-AVPEPUDEAC0053,1,control ,0
-AVPEPUDEAC0054,1,control ,0
-AVPEPUDEAC0057,1,control ,0
+AVPEPUDEA0001a1.wav,0,patologicas,1
+AVPEPUDEA0001a2.wav,0,patologicas,1
+AVPEPUDEA0001a3.wav,0,patologicas,1
+AVPEPUDEA0002a1.wav,1,patologicas,1
+AVPEPUDEA0002a2.wav,1,patologicas,1
+AVPEPUDEA0002a3.wav,1,patologicas,1
+AVPEPUDEA0003a1.wav,1,patologicas,1
+AVPEPUDEA0003a2.wav,1,patologicas,1
+AVPEPUDEA0003a3.wav,1,patologicas,1
+AVPEPUDEA0005a1.wav,0,patologicas,1
+AVPEPUDEA0005a2.wav,0,patologicas,1
+AVPEPUDEA0005a3.wav,0,patologicas,1
+AVPEPUDEA0006a1.wav,1,patologicas,1
+AVPEPUDEA0006a2.wav,1,patologicas,1
+AVPEPUDEA0006a3.wav,1,patologicas,1
+AVPEPUDEA0007a1.wav,1,patologicas,1
+AVPEPUDEA0007a2.wav,1,patologicas,1
+AVPEPUDEA0007a3.wav,1,patologicas,1
+AVPEPUDEA0008a1.wav,1,patologicas,1
+AVPEPUDEA0008a2.wav,1,patologicas,1
+AVPEPUDEA0008a3.wav,1,patologicas,1
+AVPEPUDEA0009a1.wav,1,patologicas,1
+AVPEPUDEA0009a2.wav,1,patologicas,1
+AVPEPUDEA0009a3.wav,1,patologicas,1
+AVPEPUDEA0010a1.wav,1,patologicas,1
+AVPEPUDEA0010a2.wav,1,patologicas,1
+AVPEPUDEA0010a3.wav,1,patologicas,1
+AVPEPUDEA0011a1.wav,1,patologicas,1
+AVPEPUDEA0011a2.wav,1,patologicas,1
+AVPEPUDEA0011a3.wav,1,patologicas,1
+AVPEPUDEA0013a1.wav,0,patologicas,1
+AVPEPUDEA0013a2.wav,0,patologicas,1
+AVPEPUDEA0013a3.wav,0,patologicas,1
+AVPEPUDEA0014a1.wav,1,patologicas,1
+AVPEPUDEA0014a2.wav,1,patologicas,1
+AVPEPUDEA0014a3.wav,1,patologicas,1
+AVPEPUDEA0015a1.wav,1,patologicas,1
+AVPEPUDEA0015a2.wav,1,patologicas,1
+AVPEPUDEA0015a3.wav,1,patologicas,1
+AVPEPUDEA0016a1.wav,0,patologicas,1
+AVPEPUDEA0016a2.wav,0,patologicas,1
+AVPEPUDEA0016a3.wav,0,patologicas,1
+AVPEPUDEA0017a1.wav,0,patologicas,1
+AVPEPUDEA0017a2.wav,0,patologicas,1
+AVPEPUDEA0017a3.wav,0,patologicas,1
+AVPEPUDEA0020a1.wav,1,patologicas,1
+AVPEPUDEA0020a2.wav,1,patologicas,1
+AVPEPUDEA0020a3.wav,1,patologicas,1
+AVPEPUDEA0021a1.wav,1,patologicas,1
+AVPEPUDEA0021a2.wav,1,patologicas,1
+AVPEPUDEA0021a3.wav,1,patologicas,1
+AVPEPUDEA0022a1.wav,0,patologicas,1
+AVPEPUDEA0022a2.wav,0,patologicas,1
+AVPEPUDEA0022a3.wav,0,patologicas,1
+AVPEPUDEA0023a1.wav,0,patologicas,1
+AVPEPUDEA0023a2.wav,0,patologicas,1
+AVPEPUDEA0023a3.wav,0,patologicas,1
+AVPEPUDEA0024a1.wav,0,patologicas,1
+AVPEPUDEA0024a2.wav,0,patologicas,1
+AVPEPUDEA0024a3.wav,0,patologicas,1
+AVPEPUDEA0025a1.wav,0,patologicas,1
+AVPEPUDEA0025a2.wav,0,patologicas,1
+AVPEPUDEA0025a3.wav,0,patologicas,1
+AVPEPUDEA0026a1.wav,1,patologicas,1
+AVPEPUDEA0026a2.wav,1,patologicas,1
+AVPEPUDEA0026a3.wav,1,patologicas,1
+AVPEPUDEA0027a1.wav,0,patologicas,1
+AVPEPUDEA0027a2.wav,0,patologicas,1
+AVPEPUDEA0027a3.wav,0,patologicas,1
+AVPEPUDEA0029a1.wav,1,patologicas,1
+AVPEPUDEA0029a2.wav,1,patologicas,1
+AVPEPUDEA0029a3.wav,1,patologicas,1
+AVPEPUDEA0030a1.wav,0,patologicas,1
+AVPEPUDEA0030a2.wav,0,patologicas,1
+AVPEPUDEA0030a3.wav,0,patologicas,1
+AVPEPUDEA0031a1.wav,1,patologicas,1
+AVPEPUDEA0031a2.wav,1,patologicas,1
+AVPEPUDEA0031a3.wav,1,patologicas,1
+AVPEPUDEA0032a1.wav,0,patologicas,1
+AVPEPUDEA0032a2.wav,0,patologicas,1
+AVPEPUDEA0032a3.wav,0,patologicas,1
+AVPEPUDEA0034a1.wav,0,patologicas,1
+AVPEPUDEA0034a2.wav,0,patologicas,1
+AVPEPUDEA0034a3.wav,0,patologicas,1
+AVPEPUDEA0035a1.wav,1,patologicas,1
+AVPEPUDEA0035a2.wav,1,patologicas,1
+AVPEPUDEA0035a3.wav,1,patologicas,1
+AVPEPUDEA0037a1.wav,0,patologicas,1
+AVPEPUDEA0037a2.wav,0,patologicas,1
+AVPEPUDEA0037a3.wav,0,patologicas,1
+AVPEPUDEA0038a1.wav,0,patologicas,1
+AVPEPUDEA0038a2.wav,0,patologicas,1
+AVPEPUDEA0038a3.wav,0,patologicas,1
+AVPEPUDEA0039a1.wav,0,patologicas,1
+AVPEPUDEA0039a2.wav,0,patologicas,1
+AVPEPUDEA0039a3.wav,0,patologicas,1
+AVPEPUDEA0041a1.wav,0,patologicas,1
+AVPEPUDEA0041a2.wav,0,patologicas,1
+AVPEPUDEA0041a3.wav,0,patologicas,1
+AVPEPUDEA0042a1.wav,1,patologicas,1
+AVPEPUDEA0042a2.wav,1,patologicas,1
+AVPEPUDEA0042a3.wav,1,patologicas,1
+AVPEPUDEA0043a1.wav,0,patologicas,1
+AVPEPUDEA0043a2.wav,0,patologicas,1
+AVPEPUDEA0043a3.wav,0,patologicas,1
+AVPEPUDEA0045a1.wav,1,patologicas,1
+AVPEPUDEA0045a2.wav,1,patologicas,1
+AVPEPUDEA0045a3.wav,1,patologicas,1
+AVPEPUDEA0046a1.wav,0,patologicas,1
+AVPEPUDEA0046a2.wav,0,patologicas,1
+AVPEPUDEA0046a3.wav,0,patologicas,1
+AVPEPUDEA0047a1.wav,1,patologicas,1
+AVPEPUDEA0047a2.wav,1,patologicas,1
+AVPEPUDEA0047a3.wav,1,patologicas,1
+AVPEPUDEA0048a1.wav,1,patologicas,1
+AVPEPUDEA0048a2.wav,1,patologicas,1
+AVPEPUDEA0048a3.wav,1,patologicas,1
+AVPEPUDEA0049a1.wav,0,patologicas,1
+AVPEPUDEA0049a2.wav,0,patologicas,1
+AVPEPUDEA0049a3.wav,0,patologicas,1
+AVPEPUDEA0050a1.wav,1,patologicas,1
+AVPEPUDEA0050a2.wav,1,patologicas,1
+AVPEPUDEA0050a3.wav,1,patologicas,1
+AVPEPUDEA0051a1.wav,1,patologicas,1
+AVPEPUDEA0051a2.wav,1,patologicas,1
+AVPEPUDEA0051a3.wav,1,patologicas,1
+AVPEPUDEA0052a1.wav,1,patologicas,1
+AVPEPUDEA0052a2.wav,1,patologicas,1
+AVPEPUDEA0052a3.wav,1,patologicas,1
+AVPEPUDEA0053a1.wav,0,patologicas,1
+AVPEPUDEA0053a2.wav,0,patologicas,1
+AVPEPUDEA0053a3.wav,0,patologicas,1
+AVPEPUDEA0054a1.wav,1,patologicas,1
+AVPEPUDEA0054a2.wav,1,patologicas,1
+AVPEPUDEA0054a3.wav,1,patologicas,1
+AVPEPUDEA0055a1.wav,0,patologicas,1
+AVPEPUDEA0055a2.wav,0,patologicas,1
+AVPEPUDEA0055a3.wav,0,patologicas,1
+AVPEPUDEA0056a1.wav,0,patologicas,1
+AVPEPUDEA0056a2.wav,0,patologicas,1
+AVPEPUDEA0056a3.wav,0,patologicas,1
+AVPEPUDEA0057a1.wav,0,patologicas,1
+AVPEPUDEA0057a2.wav,0,patologicas,1
+AVPEPUDEA0057a3.wav,0,patologicas,1
+AVPEPUDEA0058a1.wav,0,patologicas,1
+AVPEPUDEA0058a2.wav,0,patologicas,1
+AVPEPUDEA0058a3.wav,0,patologicas,1
+AVPEPUDEA0059a1.wav,1,patologicas,1
+AVPEPUDEA0059a2.wav,1,patologicas,1
+AVPEPUDEA0059a3.wav,1,patologicas,1
+AVPEPUDEAC0001a1.wav,1,control ,0
+AVPEPUDEAC0001a2.wav,1,control ,0
+AVPEPUDEAC0001a3.wav,1,control ,0
+AVPEPUDEAC0003a1.wav,0,control ,0
+AVPEPUDEAC0003a2.wav,0,control ,0
+AVPEPUDEAC0003a3.wav,0,control ,0
+AVPEPUDEAC0004a1.wav,1,control ,0
+AVPEPUDEAC0004a2.wav,1,control ,0
+AVPEPUDEAC0004a3.wav,1,control ,0
+AVPEPUDEAC0005a1.wav,0,control ,0
+AVPEPUDEAC0005a2.wav,0,control ,0
+AVPEPUDEAC0005a3.wav,0,control ,0
+AVPEPUDEAC0006a1.wav,1,control ,0
+AVPEPUDEAC0006a2.wav,1,control ,0
+AVPEPUDEAC0006a3.wav,1,control ,0
+AVPEPUDEAC0007a1.wav,1,control ,0
+AVPEPUDEAC0007a2.wav,1,control ,0
+AVPEPUDEAC0007a3.wav,1,control ,0
+AVPEPUDEAC0008a1.wav,1,control ,0
+AVPEPUDEAC0008a2.wav,1,control ,0
+AVPEPUDEAC0008a3.wav,1,control ,0
+AVPEPUDEAC0010a1.wav,1,control ,0
+AVPEPUDEAC0010a2.wav,1,control ,0
+AVPEPUDEAC0010a3.wav,1,control ,0
+AVPEPUDEAC0011a1.wav,1,control ,0
+AVPEPUDEAC0011a2.wav,1,control ,0
+AVPEPUDEAC0011a3.wav,1,control ,0
+AVPEPUDEAC0012a1.wav,1,control ,0
+AVPEPUDEAC0012a2.wav,1,control ,0
+AVPEPUDEAC0012a3.wav,1,control ,0
+AVPEPUDEAC0013a1.wav,1,control ,0
+AVPEPUDEAC0013a2.wav,1,control ,0
+AVPEPUDEAC0013a3.wav,1,control ,0
+AVPEPUDEAC0014a1.wav,1,control ,0
+AVPEPUDEAC0014a2.wav,1,control ,0
+AVPEPUDEAC0014a3.wav,1,control ,0
+AVPEPUDEAC0015a1.wav,1,control ,0
+AVPEPUDEAC0015a2.wav,1,control ,0
+AVPEPUDEAC0015a3.wav,1,control ,0
+AVPEPUDEAC0016a1.wav,1,control ,0
+AVPEPUDEAC0016a2.wav,1,control ,0
+AVPEPUDEAC0016a3.wav,1,control ,0
+AVPEPUDEAC0017a1.wav,1,control ,0
+AVPEPUDEAC0017a2.wav,1,control ,0
+AVPEPUDEAC0017a3.wav,1,control ,0
+AVPEPUDEAC0018a1.wav,1,control ,0
+AVPEPUDEAC0018a2.wav,1,control ,0
+AVPEPUDEAC0018a3.wav,1,control ,0
+AVPEPUDEAC0019a1.wav,1,control ,0
+AVPEPUDEAC0019a2.wav,1,control ,0
+AVPEPUDEAC0019a3.wav,1,control ,0
+AVPEPUDEAC0020a1.wav,1,control ,0
+AVPEPUDEAC0020a2.wav,1,control ,0
+AVPEPUDEAC0020a3.wav,1,control ,0
+AVPEPUDEAC0021a1.wav,0,control ,0
+AVPEPUDEAC0021a2.wav,0,control ,0
+AVPEPUDEAC0021a3.wav,0,control ,0
+AVPEPUDEAC0022a1.wav,0,control ,0
+AVPEPUDEAC0022a2.wav,0,control ,0
+AVPEPUDEAC0022a3.wav,0,control ,0
+AVPEPUDEAC0023a1.wav,1,control ,0
+AVPEPUDEAC0023a2.wav,1,control ,0
+AVPEPUDEAC0023a3.wav,1,control ,0
+AVPEPUDEAC0024a1.wav,1,control ,0
+AVPEPUDEAC0024a2.wav,1,control ,0
+AVPEPUDEAC0024a3.wav,1,control ,0
+AVPEPUDEAC0025a1.wav,1,control ,0
+AVPEPUDEAC0025a2.wav,1,control ,0
+AVPEPUDEAC0025a3.wav,1,control ,0
+AVPEPUDEAC0026a1.wav,0,control ,0
+AVPEPUDEAC0026a2.wav,0,control ,0
+AVPEPUDEAC0026a3.wav,0,control ,0
+AVPEPUDEAC0027a1.wav,0,control ,0
+AVPEPUDEAC0027a2.wav,0,control ,0
+AVPEPUDEAC0027a3.wav,0,control ,0
+AVPEPUDEAC0028a1.wav,1,control ,0
+AVPEPUDEAC0028a2.wav,1,control ,0
+AVPEPUDEAC0028a3.wav,1,control ,0
+AVPEPUDEAC0029a1.wav,1,control ,0
+AVPEPUDEAC0029a2.wav,1,control ,0
+AVPEPUDEAC0029a3.wav,1,control ,0
+AVPEPUDEAC0030a1.wav,1,control ,0
+AVPEPUDEAC0030a2.wav,1,control ,0
+AVPEPUDEAC0030a3.wav,1,control ,0
+AVPEPUDEAC0031a1.wav,0,control ,0
+AVPEPUDEAC0031a2.wav,0,control ,0
+AVPEPUDEAC0031a3.wav,0,control ,0
+AVPEPUDEAC0033a1.wav,0,control ,0
+AVPEPUDEAC0033a2.wav,0,control ,0
+AVPEPUDEAC0033a3.wav,0,control ,0
+AVPEPUDEAC0034a1.wav,0,control ,0
+AVPEPUDEAC0034a2.wav,0,control ,0
+AVPEPUDEAC0034a3.wav,0,control ,0
+AVPEPUDEAC0035a1.wav,0,control ,0
+AVPEPUDEAC0035a2.wav,0,control ,0
+AVPEPUDEAC0035a3.wav,0,control ,0
+AVPEPUDEAC0037a1.wav,0,control ,0
+AVPEPUDEAC0037a2.wav,0,control ,0
+AVPEPUDEAC0037a3.wav,0,control ,0
+AVPEPUDEAC0039a1.wav,0,control ,0
+AVPEPUDEAC0039a2.wav,0,control ,0
+AVPEPUDEAC0039a3.wav,0,control ,0
+AVPEPUDEAC0040a1.wav,0,control ,0
+AVPEPUDEAC0040a2.wav,0,control ,0
+AVPEPUDEAC0040a3.wav,0,control ,0
+AVPEPUDEAC0041a1.wav,0,control ,0
+AVPEPUDEAC0041a2.wav,0,control ,0
+AVPEPUDEAC0041a3.wav,0,control ,0
+AVPEPUDEAC0042a1.wav,0,control ,0
+AVPEPUDEAC0042a2.wav,0,control ,0
+AVPEPUDEAC0042a3.wav,0,control ,0
+AVPEPUDEAC0043a1.wav,0,control ,0
+AVPEPUDEAC0043a2.wav,0,control ,0
+AVPEPUDEAC0043a3.wav,0,control ,0
+AVPEPUDEAC0044a1.wav,0,control ,0
+AVPEPUDEAC0044a2.wav,0,control ,0
+AVPEPUDEAC0044a3.wav,0,control ,0
+AVPEPUDEAC0045a1.wav,0,control ,0
+AVPEPUDEAC0045a2.wav,0,control ,0
+AVPEPUDEAC0045a3.wav,0,control ,0
+AVPEPUDEAC0046a1.wav,0,control ,0
+AVPEPUDEAC0046a2.wav,0,control ,0
+AVPEPUDEAC0046a3.wav,0,control ,0
+AVPEPUDEAC0047a1.wav,0,control ,0
+AVPEPUDEAC0047a2.wav,0,control ,0
+AVPEPUDEAC0047a3.wav,0,control ,0
+AVPEPUDEAC0048a1.wav,0,control ,0
+AVPEPUDEAC0048a2.wav,0,control ,0
+AVPEPUDEAC0048a3.wav,0,control ,0
+AVPEPUDEAC0049a1.wav,0,control ,0
+AVPEPUDEAC0049a2.wav,0,control ,0
+AVPEPUDEAC0049a3.wav,0,control ,0
+AVPEPUDEAC0050a1.wav,0,control ,0
+AVPEPUDEAC0050a2.wav,0,control ,0
+AVPEPUDEAC0050a3.wav,0,control ,0
+AVPEPUDEAC0051a1.wav,0,control ,0
+AVPEPUDEAC0051a2.wav,0,control ,0
+AVPEPUDEAC0051a3.wav,0,control ,0
+AVPEPUDEAC0052a1.wav,0,control ,0
+AVPEPUDEAC0052a2.wav,0,control ,0
+AVPEPUDEAC0052a3.wav,0,control ,0
+AVPEPUDEAC0053a1.wav,1,control ,0
+AVPEPUDEAC0053a2.wav,1,control ,0
+AVPEPUDEAC0053a3.wav,1,control ,0
+AVPEPUDEAC0054a1.wav,1,control ,0
+AVPEPUDEAC0054a2.wav,1,control ,0
+AVPEPUDEAC0054a3.wav,1,control ,0
+AVPEPUDEAC0057a1.wav,1,control ,0
+AVPEPUDEAC0057a2.wav,1,control ,0
+AVPEPUDEAC0057a3.wav,1,control ,0
